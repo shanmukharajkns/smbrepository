@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>SMB Sales app</label>
+    <tabs>standard-Campaign</tabs>
+    <tabs>standard-Lead</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>service_req_form__c</tabs>
+    <tabs>standard-Opportunity</tabs>
+    <tabs>standard-Product2</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>servey__c</tabs>
+    <tabs>location__c</tabs>
+    <tabs>ware_house__c</tabs>
+    <tabs>sales_order__c</tabs>
+    <tabs>cliet__c</tabs>
+    <tabs>dispatch_tracker__c</tabs>
+</CustomApplication>

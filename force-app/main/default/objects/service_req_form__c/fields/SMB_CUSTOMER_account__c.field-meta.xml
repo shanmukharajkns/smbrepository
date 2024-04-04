@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SMB_CUSTOMER_account__c</fullName>
+    <externalId>false</externalId>
+    <label>SMB CUSTOMER(account)</label>
+    <referenceTo>Account</referenceTo>
+    <relationshipLabel>service req forms</relationshipLabel>
+    <relationshipName>service_req_forms</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
